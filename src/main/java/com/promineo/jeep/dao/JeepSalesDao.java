@@ -1,10 +1,17 @@
-package com.promineo.jeep.service;
+/**
+ * 
+ */
+package com.promineo.jeep.dao;
 
 import java.util.List;
 import com.promineo.jeep.entity.Jeep;
 import com.promineo.jeep.entity.JeepModel;
 
-public interface JeepSalesService {
+/**
+ * @author emily
+ *
+ */
+public interface JeepSalesDao {
 
   /**
    * @param model
